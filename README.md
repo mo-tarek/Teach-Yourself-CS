@@ -54,6 +54,9 @@
 ## 7. Databases
    - **Best Books**: Readings in Database Systems
    - **Best Videos**: Joe Hellerstein’s Berkeley CS 186
+   - **Additional**
+      - Papers: Architecture of a Database Systems
+      - Book: Readings in Database Systems
 ## 8. Languages and Compilers
    - **Best Books**: Crafting Interpreters
    - **Best Videos**: Alex Aiken’s course on edX
