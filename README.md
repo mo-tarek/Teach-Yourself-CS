@@ -49,6 +49,8 @@
 ## 6. Computer Networking 
    - **Best Books**: Computer Networking: A Top-Down Approach
    - **Best Videos**: Stanford CS 144
+   - **Additional**
+      - Videos: Stanford’s Introduction to Computer Networking course
 ## 7. Databases
    - **Best Books**: Readings in Database Systems
    - **Best Videos**: Joe Hellerstein’s Berkeley CS 186
