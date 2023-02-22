@@ -13,7 +13,7 @@
 --- 
 
 ## 1. Programming 
-   - **Best Book**: Structure and Interpretation of Computer Programs
+   - **Best Book**: Structure and Interpretation of Computer Programs [Available as Lectures]
    - **Best Videos**: Brian Harvey’s Berkeley CS 61A
 ## 2. Computer Architecture
    - **Best Book**: Computer Systems: A Programmer's Perspective
