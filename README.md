@@ -58,9 +58,14 @@
       - Papers: Architecture of a Database Systems
       - Book: Readings in Database Systems
       - Book: Database Management Systems
+      - Book: Transaction Processing: Concepts and Techniques
+      - Book: Data and Reality: A Timeless Perspective on Perceiving and Managing Information in Our Imprecise World
 ## 8. Languages and Compilers
    - **Best Books**: Crafting Interpreters
    - **Best Videos**: Alex Aiken’s course on edX
+   - **Additional**
+      - Book:  Compilers: Principles, Techniques & Tools
+      - Videos: Alex Aiken’s course on edX
 ## 9. Distributed Systems
    - **Best Books**: Designing Data-Intensive Applications by Martin Kleppmann
    - **Best Videos**: MIT 6.824
