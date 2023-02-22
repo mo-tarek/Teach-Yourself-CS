@@ -29,9 +29,17 @@
    - **Best Videos**: Berkeley CS 61C
    - **Additional**
      - Book: The Elements of Computing Systems
+     - Book: Computer Organization and Design
 ## 3. Algorithms and Data Structures (DSA)
    - **Best Book**: The Algorithm Design Manual
    - **Best Videos**: Steven Skiena’s lectures
+   - **Additional**
+      - Book: Introduction To Algorithms, 3rd Edition
+      - Book: Algorithms, Rober Sedgwick
+      - Book: How To Solve It 
+      - Videos: Skiena's Analysis of Algorithms Lectures
+      - Videos: Tim Roughgarden’s course on Coursera 
+      - Practice: Solve problems on Leetcode
 ## 4. Math For CS 
    - **Best Book**: Mathematics for Computer Science
    - **Best Videos**: Tom Leighton’s MIT 6.042J
