@@ -69,3 +69,5 @@
 ## 9. Distributed Systems
    - **Best Books**: Designing Data-Intensive Applications by Martin Kleppmann
    - **Best Videos**: MIT 6.824
+   - **Additional**
+      - Book: Distributed Systems, 3rd Edition
