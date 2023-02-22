@@ -27,6 +27,8 @@
 ## 2. Computer Architecture
    - **Best Book**: Computer Systems: A Programmer's Perspective
    - **Best Videos**: Berkeley CS 61C
+   - **Additional**
+     - Book: The Elements of Computing Systems
 ## 3. Algorithms and Data Structures (DSA)
    - **Best Book**: The Algorithm Design Manual
    - **Best Videos**: Steven Skiena’s lectures
