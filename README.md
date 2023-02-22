@@ -1,4 +1,4 @@
-# Tables of Contents 
+# Table of Contents 
 
 1. Programming 
 2. Computer Architecture
@@ -15,6 +15,15 @@
 ## 1. Programming 
    - **Best Book**: Structure and Interpretation of Computer Programs [Available as Lectures]
    - **Best Videos**: Brian Harvey’s Berkeley CS 61A
+   - **Recommendation**
+      - Work through at least 3 chapters of SCIP & doing excercises 
+      - Work through a set of small programming problems like those on exercism.
+   - **Additional**
+      - Book: Composing Programs [Uses Python]
+      - Book:  How to Design Programs
+   - **Important Note**
+      - This guide is NOT designed for those who are entirely new to programming
+      - If you want a guide for learning programming, you may like this one
 ## 2. Computer Architecture
    - **Best Book**: Computer Systems: A Programmer's Perspective
    - **Best Videos**: Berkeley CS 61C
