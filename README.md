@@ -53,7 +53,7 @@
       - Book: Mathematics for Computer Science
       - Videos: Mathematics for computer science, MIT (Notes above based on these lectures)
       - Videos: Essence of linear algebra
-      - Merge: Gilbert Strang’s book and video lectures
+      - Merge: Gilbert Strang’s book and video lectures.
 ## 5. Operating Systems 
    - **Best Book**: Operating Systems: Three Easy Pieces (OSTEP)
    - **Best Videos**: Berkeley CS 162
