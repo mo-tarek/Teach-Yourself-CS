@@ -1,6 +1,6 @@
 # Table of Contents 
 
-1. Programming 
+1. [Programming](https://github.com/mo-tarek/Teach-Yourself-CS#1-programming)
 2. Computer Architecture
 3. Algorithms and Data Structures (DSA)
 4. Math For CS 
