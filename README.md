@@ -1,14 +1,14 @@
 # Table of Contents 
 
 1. [Programming](https://github.com/mo-tarek/Teach-Yourself-CS#1-programming)
-2. Computer Architecture
-3. Algorithms and Data Structures (DSA)
-4. Math For CS 
-5. Operating Systems 
-6. Computer Networking 
-7. Databases 
-8. Languages and Compilers 
-9. Distributed Systems 
+2. [Computer Architecture](https://github.com/mo-tarek/Teach-Yourself-CS#2-computer-architecture)
+3. [Algorithms and Data Structures (DSA)](https://github.com/mo-tarek/Teach-Yourself-CS/edit/main/README.md#3-algorithms-and-data-structures-dsa)
+4. [Math For CS](https://github.com/mo-tarek/Teach-Yourself-CS/edit/main/README.md#4-math-for-cs)
+5. [Operating Systems](https://github.com/mo-tarek/Teach-Yourself-CS/edit/main/README.md#5-operating-systems)
+6. [Computer Networking](https://github.com/mo-tarek/Teach-Yourself-CS/edit/main/README.md#6-computer-networking)
+7. [Databases](https://github.com/mo-tarek/Teach-Yourself-CS/edit/main/README.md#7-databases)
+8. [Languages and Compilers](https://github.com/mo-tarek/Teach-Yourself-CS/edit/main/README.md#8-languages-and-compilers)
+9. [Distributed Systems](https://github.com/mo-tarek/Teach-Yourself-CS/edit/main/README.md#9-distributed-systems)
 
 --- 
 
